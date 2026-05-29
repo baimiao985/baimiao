@@ -1,17 +1,12 @@
 {
   "sites": [
-    {
-      "name": "🚀豆瓣｜嗷呜弹幕｜搜索自启",
-      "key": "GoConfig",
+"key": "豆瓣1",
+      "name": "📢公告❤更新0526❤",
       "type": 3,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm1.png",
-      "api": "csp_GoConfigAmns",
-      "indexs": 1,
+      "api": "csp_Notice",
       "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/douban.png"
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/f3b31497ca266ea4f8a89c88e9385f48.jpg;md5;ff4f99fad585f4935fcaa06e3092e44a",
+      "ext": "https://tv.nxog.top/m/公告?b=tv"
     },
     {
       "key": "首发",
