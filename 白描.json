@@ -5,17 +5,11 @@
   "lives": [],
   "sites": [
     {
-      "name": "🚀公众号白描不是白猫",
-      "key": "GoConfig",
+      "key": "豆瓣",
+      "name": "想看什么自行搜索🔍 自用🚫传播",
       "type": 3,
-      "jar": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm1.png",
-      "api": "csp_GoConfigAmns",
-      "indexs": 1,
-      "searchable": 1,
-      "filterable": 0,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/douban.png"
+      "api": "csp_Douban",
+      "searchable": 0
     },
     {
       "key": "首发",
